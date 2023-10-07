@@ -1,0 +1,13 @@
+body{
+    background-image: url(landscape-macbook-3840x2160-10760.jpg);
+}
+
+h1{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba (155,99,99, 0.5);
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    text-shadow: 3px 3px 5px pink;
+}
