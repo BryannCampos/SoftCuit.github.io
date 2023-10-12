@@ -5,17 +5,42 @@ nav {
     background-color: #c6c6c6;
     color: #fff;
     position: relative;
+
+    text-decoration: none;
+    color: #000000;
+    padding: 0 10px;
 }
 .links a {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #c6c6c6;
+    color: #fff;
+    position: relative;
+
     text-decoration: none;
     color: #000000;
     padding: 0 10px;
     position: relative;
 }
 .links a:hover {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #c6c6c6;
+    color: #fff;
+    position: relative;
+
     color: #fff184;
 }
 .divider {
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #c6c6c6;
+    color: #fff;
+    position: relative;
+
     position: absolute;
     height: 50%;
     border-left: 1px solid #000000;
@@ -24,6 +49,13 @@ nav {
 }
 
 h1{
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #c6c6c6;
+    color: #fff;
+    position: relative;
+    
     color: #df5151;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgba (155,99,99, 0.5);
