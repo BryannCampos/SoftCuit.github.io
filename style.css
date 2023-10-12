@@ -1,16 +1,18 @@
 nav {
     display: flex;
+    gap: 20px;
     justify-content: center;
     padding: 10px 20px;
     background-color: #c6c6c6;
-    color: #fff;
     position: relative;
     text-decoration: none;
-    color: #000000;
-    padding: 0 10px;
+    
 }
 
-
+nav a{
+    color: #000000;
+    font-size: 40px;
+}
 
 .links a {
     display: flex;

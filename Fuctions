@@ -15,20 +15,14 @@
         </a>     
     </div>
 
-
-
-    <nav class="menu">
+    <nav>
         <ul>
-          <li><a href="#">Us</a></li>
-          <div class="divider"></div>
-          <li><a href="#">Objectives</a></li>
-          <div class="divider"></div>
-          <li><a href="#">Information</a></li>
-          <div class="divider"></div>
-          <li><a href="#">Fuctions</a></li>
-          <div class="divider"></div>
-        </ul>
-      </nav>
-</nav>
+		<li><a href="#">Us</a></li>
+		<li><a href="#">Objectives</a></li>
+		<li><a href="#">Information</a></l>
+		<li><a href="#"></a></li>
+		<li><a href="#">Contacto</a></li>
+	 </ul>
+    </nav>
 </body>
 </html>       
