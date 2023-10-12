@@ -18,7 +18,7 @@
         
         </div>
 
-        <div class="links">
+       <H1> <div class="links">
             <a href="#">Us</a>
             </a>
             <div class="divider"></div>
@@ -26,13 +26,33 @@
             <div class="divider"></div>
             <a href="#">Information</a>
             <div class="divider"></div>
-          <a href="#">Functions</a></h1>
+          <a href="#">Functions</a></H1>
         
         </div>
     </nav>
-    
+    Public Class Form1
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ' Establece la URL del archivo de video que deseas reproducir.
+        AxWindowsMediaPlayer1.URL = "RutaDelVideo\video.mp4" ' Reemplaza "RutaDelVideo\video.mp4" con la ubicación de tu video.
+    End Sub
 
-<h1> </h1>
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        ' Iniciar la reproducción del video.
+        AxWindowsMediaPlayer1.Ctlcontrols.play()
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        ' Pausar la reproducción del video.
+        AxWindowsMediaPlayer1.Ctlcontrols.pause()
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        ' Detener la reproducción del video.
+        AxWindowsMediaPlayer1.Ctlcontrols.stop()
+    End Sub
+End Class
+
+</h1>
 
 <br>We are the creators of "Soft Cuit" which is an application for mobile devices that is more specific in the field of internet security. We have worked to finally make users feel comfortable and confident when using our digital tools. </br>
 
