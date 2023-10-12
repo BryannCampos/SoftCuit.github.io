@@ -5,11 +5,13 @@ nav {
     background-color: #c6c6c6;
     color: #fff;
     position: relative;
-
     text-decoration: none;
     color: #000000;
     padding: 0 10px;
 }
+
+
+
 .links a {
     display: flex;
     justify-content: center;
