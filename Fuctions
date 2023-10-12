@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="SoftCuit app official website">
+    <meta name="keywords" content="Panama, security, seguridad, SoftCuit, Ciber security, trust,safety, reliability,  ">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="shortcut icon" href="Captura de pantalla 2023-10-06 201647.png" type="image/x-icon">
+    <title>SoftCuit</title> 
+</head>
+<body> 
+    <nav>  
+        <a class="navbar-brand" href="#">
+            <img id="logo" src="softcuit.png" width="49px" height="40px"> 
+        </a>     
+    </div>
+
+    <div class="links">
+        <a href="#">Us</a>
+        </a>
+        <div class="divider"></div>
+        <h1><a href="#">Objectives</a>
+        <div class="divider"></div>
+        <a href="#">Information</a>
+        <div class="divider"></div>
+      <a href="#">Functions</a></h1> 
+    
+    </div>
+
+    <nav class="menu">
+        <ul>
+          <li><a href="#">Us</a></li>
+          <li><a href="#">Objectives</a></li>
+          <li><a href="#">Information</a></li>
+          <li><a href="#">Fuctions</a></li>
+        </ul>
+      </nav>
+</nav>
+</body>
+</html>       
