@@ -146,3 +146,9 @@ footer {
 }
 
 /* about */
+information.html
+body {
+
+    background-image: url("SoftCuit-Canva\ information.png");
+    background-size: cover;
+}
