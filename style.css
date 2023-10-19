@@ -9,6 +9,9 @@ header {
     color:#000000;
     text-align: center;
     padding: 25px 0;
+    a :hover{
+        color: #8b51fd;
+    }
 }
 
 nav ul {
@@ -22,13 +25,9 @@ nav ul li {
     margin: 0 30px;
 }
 
-a :hover{
-    color: #8b51fd;
-}
-
 nav ul li a {
     text-decoration: none;
-    color:#000000;
+    color:#E9E9E9;
     font-size: 19px;
     font-family: 'Questrial', sans-serif;
 
@@ -153,7 +152,7 @@ body {
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
-      background-position: center center;;
+      background-position: center center;
     }
 }
 
