@@ -6,7 +6,7 @@ body {
 
 header {
     background-color:#E9E9E9;
-    color: #E9E9E9;
+    color: #000000;
     text-align: center;
     padding: 25px 0;
     
@@ -156,19 +156,6 @@ body {
   background-position: center center;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #fff;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-}
 
 h1 {
     font-size: 36px;
