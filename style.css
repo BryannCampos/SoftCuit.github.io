@@ -6,7 +6,7 @@ body {
 
 header {
     background-color:#E9E9E9;
-    color:#000000;
+    color: #E9E9E9;
     text-align: center;
     padding: 25px 0;
     
@@ -149,18 +149,16 @@ footer {
 /* about */
 information.html
 body {
-    body {
-        background-image: url('information2.png');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-position: center center;
-    }
+    background-image: url('SoftCuit-information2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
 }
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #fff;
     margin: 0;
     padding: 0;
 }
