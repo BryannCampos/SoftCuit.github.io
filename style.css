@@ -35,20 +35,7 @@ nav ul li a {
 
 }
 
-@media (max-width: 768px) {
-    header {
-        padding: 30px 0;
-    }
 
-    nav ul {
-        text-align: center;
-    }
-
-    nav ul li {
-        display: block;
-        margin: 20px 0;
-    }
-}
 .video-container {
     position: relative;
     width: 100%;
