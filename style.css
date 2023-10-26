@@ -186,14 +186,7 @@ a {
 }
 
 
-.container{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    background-color: hsla(260, 92%, 67%, 0.959);
-    border: 0px solid hsla(260, 92%, 67%, 0.959);
 
-}
 
 .texto{
     color: #000000;
