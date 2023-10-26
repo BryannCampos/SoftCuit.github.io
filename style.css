@@ -198,10 +198,12 @@ a {
     font-size: 18px;
 }
 
-container{
+.container{
     position: relative;
     display: inline-block;
     text-align: center;
+    background-color: hsla(260, 92%, 67%, 0.959);
+    border: 0px solid hsla(260, 92%, 67%, 0.959);
 
 }
 
@@ -213,12 +215,27 @@ container{
     text-align: justify;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 60%;
     transform: translate(-50%,-50%);
     
 
 }
-p {
+.custom-card {             
+    background-color: hsla(260, 92%, 67%, 0.959);
+    border: 0px solid hsla(260, 92%, 67%, 0.959);
+  }
+  
+  .custom-card  {
+    color: #000000;
+  }
+  .custom-card body {
+      font-family: Arial, sans-serif;
+    font-size: 48px;
+
+  
+  }
+
+.p {
     font-size: 18px;
     line-height: 1.5;
 }
@@ -261,3 +278,4 @@ a {
     margin-bottom: 10px;
     font-size: 18px;
 }
+
