@@ -145,7 +145,7 @@ p {
     line-height: 1.5;
 }
 
-/*:::::::Pie de Pagina*/
+/*:::::::Footer Comienzo*/
 .pie-pagina{
     width: 100%;
     background-color: #9671d1;
@@ -202,3 +202,4 @@ color:aqua;
 .pie-pagina .grupo-2 small{
     font-size: 15px;
 }
+/*:::::::Footer Fin*/
