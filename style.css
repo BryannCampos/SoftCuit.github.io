@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 body {
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@ header {
     background-color:#E9E9E9;
     color: #000000;
     text-align: center;
-    padding: 30px;
+    padding: 40px;
     
 }
 
@@ -153,7 +154,7 @@ p {
     color: #000000;
     margin: 0.5rem 0.2rem;
     font-size: 1.5em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Questrial', sans-serif;
     text-align: justify;
     position: absolute;
     top: 50%;
@@ -167,7 +168,7 @@ p {
     color: #000000;
   }
   .custom-card body {
-      font-family: Arial, sans-serif;
+      font-family: 'Questrial', sans-serif;
     font-size: 80px;
 
   
