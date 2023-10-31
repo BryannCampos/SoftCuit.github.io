@@ -36,7 +36,7 @@ nav ul li a {
 
 }
 /*:::::::Header+Nav (fin)*/
-
+/*:::::::Bryan*/
 .video-container {
     position: relative;
     width: 100%;
@@ -98,7 +98,7 @@ body,html {
     justify-content: center;
     color: #000000; 
 }
-
+/*:::::::Bryan (fin)*/
 .html
 body {
     background-image: url();
@@ -141,14 +141,6 @@ p {
 }
 
 /*:::::::Sharol*/
-.container{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-    background-color: hsla(260, 92%, 67%, 0.959);
-    border: 0px solid hsla(260, 92%, 67%, 0.959);
-
-}
 
 .texto{
     color: #000000;
