@@ -1,0 +1,28 @@
+*{font-family: 'Questrial', sans-serif;}*
+.custom-card {
+    background-color: hsla(260, 76%, 75%, 0.959);
+    border: 0cap solid hsla(260, 76%, 75%, 0.959);
+  }
+  .custom-card h3 {
+    color: #FFFFFF;
+  }
+  .custom-card body {
+      font-family: Arial, sans-serif;
+    font-size: 24px;
+  }
+  .custom-card p {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 18px;
+  line-height: 1.5;
+  }
+
+  body {
+  background-image: url(fridafondo.jpeg); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-position: center center;;
+}
