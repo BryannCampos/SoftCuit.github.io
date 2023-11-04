@@ -47,10 +47,10 @@ p {
     border: 0cap solid hsla(260, 76%, 75%, 0.959);
   }
   .custom-card h3 {
-    color: #FFFFFF;
+    color: #000000;
   }
   .custom-card body {
-      font-family: Arial, sans-serif;
+      font-family: 'Questrial', sans-serif;
     font-size: 24px;
   }
   .custom-card p {
