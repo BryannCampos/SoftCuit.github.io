@@ -1,7 +1,6 @@
 /*CSS General*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
-
 body {
     margin: 0;
     padding: 0;
@@ -18,8 +17,12 @@ body {
 }
 
 
-h1 {
-    font-size: 36px;
+body h1 {
+    font-size: 101px;
+}
+
+body h3 {
+    font-size: 40px;
 }
 
 
