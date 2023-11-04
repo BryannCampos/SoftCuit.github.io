@@ -100,10 +100,3 @@ p {
     left: 350px;
     height: 12;
 }
-body {
-    background-image: url(fridafondo.jpeg); 
-    background-size: cover; 
-    background-repeat: no-repeat; 
-    background-attachment: fixed; 
-    background-position: center center;;
-}
