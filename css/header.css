@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+*{font-family: 'Questrial', sans-serif;}*
+
 body {
     margin: 0;
     padding: 0;
@@ -9,7 +11,7 @@ header {
     background-color:#E9E9E9;
     color: #000000;
     text-align: center;
-    padding: 40px;
+    padding: 35px;
     
 }
 
