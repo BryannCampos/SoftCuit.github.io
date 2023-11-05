@@ -17,16 +17,6 @@ body {
 }
 
 
-body h1 {
-    font-size: 101px;
-}
-
-body h3 {
-    font-size: 40px;
-}
-
-
-
 .about-content {
     display: flex;
     align-items: center;
@@ -35,6 +25,7 @@ body h3 {
 
 .about-text {
     flex: 1;
+    text-align: justify;
 }
 
 .about-image {
@@ -46,9 +37,19 @@ img {
     max-width: 100%;
     height: auto;
 }
-
 p {
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.5
 }
+
 /*CSS General fin*/
+body h1 {
+    font-size: 70px;
+}
+
+body h3 {
+    font-size: 40px;
+}
+
+
+
