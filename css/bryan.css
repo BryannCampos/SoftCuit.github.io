@@ -1,5 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
+/*CSS General*/
+.html
+body {
+    background-image: url();
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+
+h1 {
+    font-size: 36px;
+}
+
+
+
+.about-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about-text {
+    flex: 1;
+}
+
+.about-image {
+    flex: 1;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+/*CSS General fin*/
 
 body {
     margin: 0;
@@ -73,46 +115,5 @@ body h2 {
     color: darkgoldenrod;
 }
 
+
 /*:::::::Bryan (fin)*/
-/*CSS General*/
-.html
-body {
-    background-image: url();
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-}
-
-
-h1 {
-    font-size: 36px;
-}
-
-
-
-.about-content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.about-text {
-    flex: 1;
-}
-
-.about-image {
-    flex: 1;
-    padding: 20px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-p {
-    font-size: 18px;
-    line-height: 1.5;
-}
-/*CSS General fin*/
