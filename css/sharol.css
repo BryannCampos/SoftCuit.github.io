@@ -65,7 +65,7 @@ p {
   .custom-card  {
     color: #000000;
   }
-  .custom-card body {
+  .custom-card body p {
       font-family: 'Questrial', sans-serif;
     font-size: 100px;
 

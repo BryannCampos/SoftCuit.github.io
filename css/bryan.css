@@ -10,6 +10,9 @@ body {
   background-position: center center;
 }
 
+.Menu a:first-child{
+border-bottom: 3px solid #8b51fd;
+}
 
 h1 {
     font-size: 36px;
