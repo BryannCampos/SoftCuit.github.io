@@ -97,6 +97,10 @@ p {
     font-style: italic;
     border: 20px solid #5C41D9;
     position: relative;
-    left: 410px;
+    left: 510px;
     height: 12;
 }
+
+.Menu li a:nth-child(5){
+    border-bottom: 3px solid #8b51fd;
+    }

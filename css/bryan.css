@@ -10,7 +10,7 @@ body {
   background-position: center center;
 }
 
-.Menu a:first-child{
+.Menu li a:first-child{
 border-bottom: 3px solid #8b51fd;
 }
 
