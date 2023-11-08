@@ -2,13 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
 .html
-
-
 h1 {
     font-size: 36px;
 }
-
-
 
 .about-content {
     display: flex;
@@ -53,10 +49,4 @@ p {
   p {
     font-size: 18px;
   line-height: 1.5;
-  }
-
-  .Menu li a:nth-child(3){
-    border-bottom: 3px solid #8b51fd;
-    }
-
-    
+  } 

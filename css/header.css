@@ -17,12 +17,6 @@ nav a:hover{
     color: #8b51fd;
     
 }
-nav a.active{
-    color: #8b51fd;
-    text-decoration: underline;
-    
-}
-
 
 nav ul {
     list-style: none;

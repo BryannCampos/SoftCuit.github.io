@@ -10,15 +10,9 @@ body {
   background-position: center center;
 }
 
-.Menu li a:first-child{
-border-bottom: 3px solid #8b51fd;
-}
-
 h1 {
     font-size: 36px;
 }
-
-
 
 .about-content {
     display: flex;
@@ -117,4 +111,5 @@ body,html {
 body h2 {
     color: darkgoldenrod;
 }
+
 /*:::::::Bryan (fin)*/
