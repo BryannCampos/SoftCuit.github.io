@@ -51,6 +51,10 @@ body h3 {
     font-size: 40px;
 }
 
+.about-video {
+    align-items: right;
+}
+
 .videofunciones {
     width: 350px;
    }
