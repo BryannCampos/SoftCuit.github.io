@@ -8,16 +8,6 @@ body {
     font-family: 'Questrial', sans-serif;
 }
 
-.html
-body {
-    background-image: url();
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-}
-
-
 h1 {
     font-size: 36px;
 }
@@ -42,34 +32,9 @@ img {
     height: auto;
 }
 
-p {
-    font-size: 18px;
+p.texto {
+    font-size: 35px;
     line-height: 1.5;
 }
 /*CSS General fin*/
 /*:::::::Sharol*/
-.texto{
-    color: #000000;
-    margin: 0.5rem 0.2rem;
-    font-size: 1.5em;
-    font-family: 'Questrial', sans-serif;
-    text-align: justify;
-    position: absolute;
-    top: 50%;
-    left: 60%;
-    transform: translate(-50%,-50%);
-}
-
-
-  
-  .custom-card  {
-    color: #000000;
-  }
-  .custom-card body p {
-      font-family: 'Questrial', sans-serif;
-    font-size: 100px;
-
-  
-  }
-
-/*:::::::Sharol Fin*/
