@@ -1,6 +1,9 @@
+/*Enlace para tipografía de la página Home*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
-/*CSS General*/
+/*Enlace para tipografía de la páina Home*/
+
+/*Aquí comienzan los códigos del CSS General*/
 .html
 body {
     background-image: url();
@@ -38,14 +41,15 @@ p {
     font-size: 18px;
     line-height: 1.5;
 }
-/*CSS General fin*/
 
 body {
     margin: 0;
     padding: 0;
     font-family: 'Questrial', sans-serif;
 }
-/*:::::::Bryan*/
+/*Aquí acaban los códigos del CSS General*/
+
+/*Aquí comienzan los códigos de Bryan, para la página Home*/
 .video-container {
     position: relative;
     width: 100%;
@@ -111,5 +115,4 @@ body,html {
 body h2 {
     color: darkgoldenrod;
 }
-
-/*:::::::Bryan (fin)*/
+/*Aquí acaban los códigos de Bryan, para la página Home*/

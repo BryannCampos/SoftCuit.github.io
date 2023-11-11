@@ -1,6 +1,9 @@
-/*CSS General*/
+/*Enlace para tipografía de la página Home*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
+/*Enlace para tipografía de la página Home*/
+
+/*Aquí comienzan los códigos del CSS General*/
 .html
 h1 {
     font-size: 36px;
@@ -30,7 +33,9 @@ p {
     font-size: 18px;
     line-height: 1.5;
 }
-/*CSS General fin*/
+/*Aquí acaban los códigos del CSS General*/
+
+/*Aquí comienzan los códigos de Frida, para la página Objectives*/
 .custom-card {
     background-color: hsla(260, 76%, 75%, 0.959);
     border: 0cap solid hsla(260, 76%, 75%, 0.959);
@@ -50,3 +55,4 @@ p {
     font-size: 18px;
   line-height: 1.5;
   } 
+/*Aquí acaban los códigos de Frida, para la página Objectives*/

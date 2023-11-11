@@ -1,6 +1,9 @@
-/*CSS General*/
+/*Enlace para tipografía de la páina About Us*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
+/*Aquí comienzan los códigos de Bryan, para la página Home*/
+
+/*Aquí comienzan los códigos del CSS General*/
 body {
     margin: 0;
     padding: 0;
@@ -37,8 +40,9 @@ p {
     font-size: 18px;
     line-height: 1.5
 }
+/*Aquí acaban los códigos del CSS General*/
 
-/*CSS General fin*/
+/*Aquí comienzan los códigos de José, para la página About Us*/
 body h1 {
     font-size: 70px;
 }
@@ -60,5 +64,5 @@ body h3 {
     text-align: left;
     text-align: justify;
 }
-   
+/*Aquí acaban los códigos de José, para la página About Us*/
    
