@@ -1,7 +1,9 @@
-/*CSS General*/
+/*Enlace para tipografía de la página Functions*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
+/*Enlace para tipografía de la página Functions*/
 
+/*Aquí comienzan los códigos del CSS General*/
 body {
     margin: 0;
     padding: 0;
@@ -17,12 +19,9 @@ body {
   background-position: center center;
 }
 
-
 h1 {
     font-size: 36px;
 }
-
-
 
 .about-content {
     display: flex;
@@ -48,7 +47,9 @@ p {
     font-size: 18px;
     line-height: 1.5;
 }
-/*CSS General fin*/
+/*Aquí acaban los códigos del CSS General*/
+
+/*Aquí comienzan los códigos de Anna y Elaine, para la página Objectives*/
 .btn-button{
     background-color: #5C41D9;
     color: azure;
@@ -100,3 +101,4 @@ p {
     left: 629px;
     height: 12;
 }
+/*Aquí acaban los códigos de Anna y Elaine, para la página Objectives*/
