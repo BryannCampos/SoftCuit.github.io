@@ -5,9 +5,11 @@
 
 /*Aquí comienzan los códigos del CSS General*/
 body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Questrial', sans-serif;
+    background-image: url(Informationfondo.png); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center center;
 }
 
 h1 {

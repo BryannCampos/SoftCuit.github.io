@@ -10,9 +10,8 @@ body {
     font-family: 'Questrial', sans-serif;
 }
 
-.html
 body {
-    background-image: url();
+  background-image: url(Us-Fondo.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
