@@ -4,21 +4,6 @@
 /*Enlace para tipografía de la página Functions*/
 
 /*Aquí comienzan los códigos del CSS General*/
-body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Questrial', sans-serif;
-}
-
-.html
-body {
-    background-image: url();
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
-}
-
 h1 {
     font-size: 36px;
 }
@@ -53,52 +38,89 @@ p {
 .btn-button{
     background-color: #5C41D9;
     color: azure;
-    font-size: medium;
-    line-height: 5px;
+    font-size: x-large;
+    line-height: 60px;
+    min-width:  400px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font: weight 400;
     font-style: italic;
     border: 20px solid #5C41D9;
     margin-top: 50px;
     position: relative;
-    left: 150px;
+    left: 125px;
 }
 .btn-button2{
     background-color: #FFBF40;
-    color: black;
-    font-size: medium;
-    line-height: 5px;
+    color: azure;
+    font-size: x-large;
+    line-height: 60px;
+    min-width:  400px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 400;
     font-style: italic;
     border: 20px solid #FFBF40 ;
     position: relative;
-    left: 810px;
+    left: 400px;
 }
 .btn-button3{
+    font-size: 34px;
     background-color: #FFBF40;
-    color: black;
-    font-size: medium;
-    line-height: 5px;
+    color: azure;
+    font-size: x-large;
+    line-height: 60px;
+    min-width:  400px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 400;
     font-style: italic;
     border: 20px solid #FFBF40;
     margin-top: 74px;
     position: relative;
-    left: 110px;
+    left: 125px;
 }
 .btn-button4{
+    font-size: 34px;
     background-color: #5C41D9;
     color: azure; 
-    font-size: medium;
-    line-height: 5px;
+    font-size: x-large;
+    line-height: 60px;
+    min-width:  400px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 400;
     font-style: italic;
     border: 20px solid #5C41D9;
     position: relative;
-    left: 629px;
+    left: 400px;
     height: 12;
+}
+
+.img-FUNCTIONS{
+    left: 20px;
+    top: 300px;
+}
+
+/* gpt */
+body {
+    margin: 0;
+}
+
+.contenedorfunctions {
+    margin-top: 110px; /* Ajusta el valor según sea necesario */
+    margin-left: 415px; /* Ajusta el valor según sea necesario */
+}
+
+.img-contenedorfunctions {
+    max-width: 45%; /* Asegúrate de que la imagen no se desborde del contenedor */
+    height: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('Us-Fondo.png');
+    background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
+    background-position: center; /* Ajusta la posición de la imagen en el centro */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    font-family: 'Arial', sans-serif; /* Puedes cambiar la fuente según tus preferencias */
+    color: #ffffff; /* Cambia el color del texto según tus preferencias */
 }
 /*Aquí los códigos de Anna y Elaine, para la página Objectives*/
