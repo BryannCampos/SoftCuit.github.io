@@ -1,0 +1,84 @@
+/*CSS General*/
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+*{font-family: 'Questrial', sans-serif;}*
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Questrial', sans-serif;
+}
+
+body {
+    background-image: url(Backupcopy.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+
+.about-content {
+    display: flex;
+    align-items: right;
+    justify-content: space-between;
+}
+
+.about-image {
+    flex: 1;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5
+}
+
+/*CSS General fin*/
+
+.videobackupcopy {
+ width: 300px;
+ 
+}
+
+.about-video {
+    align-content: right;
+}
+
+.about-text {
+    flex: 1;
+    text-align: left;
+    text-align: justify;
+}
+
+div.about-video {
+    margin-left: 930px;
+    margin-top: 0px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .close-btn {
+    background-color: #FFBF40; /* Color de fondo del botón */
+    color: #ffffff; /* Color del texto del botón */
+    font-size: 50px;
+    padding: 5px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    left: 10px;
+    position: relative;
+  }
+  
+  .close-btn:hover {
+    background-color: #E8A319; /* Color de fondo del botón al pasar el mouse */
+  }
