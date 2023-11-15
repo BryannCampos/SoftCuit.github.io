@@ -1,0 +1,139 @@
+/*Enlace para tipografía de la página Sign Up*/
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+*{font-family: 'Questrial', sans-serif;}*
+/*Enlace para tipografía de la página Sign Up*/
+
+body {
+    background: linear-gradient(150deg, #6C3483, #58d68d);
+}
+
+.logosoftcuit {
+    height: 20%; 
+    width: 19%;
+    margin-top: 3%;
+}      
+
+.padre {
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+.box2 {
+    width: 30%;
+    height: 57%;
+    background-color: rgba(0,0,0,.5);
+    border: 3px solid rgba(0,0,0,.5);
+    box-sizing: border-box;
+    border-radius: 7px;
+    display: flex;
+}
+.box {
+    width: 30%;
+    height: 54.5%;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(196, 196, 196);
+    box-sizing: border-box;
+    border-radius: 7px;
+    display: flex;
+}
+
+
+.tittle {
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Questrial', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+
+}
+
+.subject {
+    font-size: 20px;
+    font-family: 'Questrial', sans-serif;
+    color: rgb(148, 148, 148);
+    text-align: left;
+    margin-left: 30px;
+    margin-top: auto;
+}
+
+input {
+    margin-right: 10%;
+    border: none;
+    border-bottom: 2px solid #5C41D9;
+    outline: none;
+    width: 70%;
+    padding: 5px 0;
+    color: rgb(148, 148, 148);
+}
+
+input::placeholder {
+    color: rgb(148, 148, 148);
+    font-family: 'Questrial', sans-serif;
+    font-size: 15px;
+}
+
+.other {
+    text-align: left;
+    margin-left: 10%;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    font-family: 'Questrial', sans-serif;
+    color: rgb(148, 148, 148);
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Questrial', sans-serif;
+    color: #5C41D9;
+}
+
+.sign {
+    font-family: 'Questrial', sans-serif;
+    font-weight: bold;
+    border-radius: 7px;
+    width: 50%;
+    height: 15%;
+    font-size: 20px;
+    color: white;
+    border: none;
+    background-color: #5C41D9;
+    margin-left: 229px;
+    margin-top: -60px;
+    margin-bottom: 20;
+    transition: background-color 0.3s;
+}
+
+
+.sign:hover {
+    background-color: #2200BF;
+}
+
+.sign:active {
+    background-color: #2200BF;
+}
+.createacc {
+    font-family: 'Questrial', sans-serif;
+    font-weight: bold;
+    border-radius: 7px;
+    width: 50%;
+    height: 15%;
+    font-size: 20px;
+    color: white;
+    border: none;
+    background-color: #5C41D9;
+    margin-left: 226px;
+    margin-top: -10px;
+    transition: background-color 0.3s;
+}
+.createacc:hover {
+    background-color: #2200BF;
+}
+.createacc:active {
+    background-color: #2200BF;
+}
