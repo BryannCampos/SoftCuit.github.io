@@ -1,4 +1,9 @@
+/*Enlace para tipografía del header*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+*{font-family: 'Questrial', sans-serif;}*
+/*Enlace para tipografía del header*/
+
+/*Aquí comienzan los códigos generales, para la página Header*/
 body {
     margin: 0;
     padding: 0;
@@ -32,3 +37,4 @@ nav ul li a {
     font-size: 19px;
     font-family: 'Questrial', sans-serif;
 }
+/*Aquí terminan los códigos generales, para la página Header*/

@@ -1,4 +1,4 @@
-/*:::::::Footer Comienzo*/
+/*Aquí inicia el css del footer */
 .pie-pagina{
     width: 100%;
     background-color: #9671d1;
@@ -31,6 +31,8 @@
     color: #efefef;
     margin-bottom: 10px;
 }
+
+/*Códigos de enlaces de nuestras redes sociales*/
 .pie-pagina .grupo-1 .red-social a{
     display: inline-block;
     text-decoration: none;
@@ -43,9 +45,14 @@
     text-align: center;
     transition: all 300ms ease;
 }
+
 .pie-pagina .grupo-1 .red-social a:hover{
 color:aqua;
 }
+
+/*Códigos de enlaces de nuestras redes sociales*/
+
+
 .pie-pagina .grupo-2{
     background-color:#AD9BCB;
     padding: 15px 10px;
@@ -55,4 +62,4 @@ color:aqua;
 .pie-pagina .grupo-2 small{
     font-size: 15px;
 }
-/*:::::::Footer Fin*/
+/*Aquí acaba el css del footer */
