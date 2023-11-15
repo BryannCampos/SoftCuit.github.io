@@ -1,17 +1,17 @@
 /*Enlace para tipografía del Sign In*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
-*{font-size:'Questrial', sans-serif;}*
-/*Enlace para tipigrafía del Sign In*/
+*{font-family: 'Questrial', sans-serif;}*
+/*Enlace para tipografía del Sign in*/
 
 body {
-    background: linear-gradient(150deg, #6c3483, #58d8d5);
+    background: linear-gradient(150deg, #6C3483, #58d68d);
 }
 
 .logosoftcuit {
-    height: 100%;
+    height: 20%; 
     width: 19%;
     margin-top: 3%;
-}
+}       
 
 .padre {
     height: 100vh;
@@ -20,9 +20,18 @@ body {
     display: flex;
 }
 
+.box2 {
+    width: 30%;
+    height: 57%;
+    background-color: rgba(0,0,0,.5);
+    border: 3px solid  rgba(0,0,0,.5);
+    box-sizing: border-box;
+    border-radius: 7px;
+    display: flex;
+}
 .box {
     width: 30%;
-    height: 54-5%;
+    height: 54.5%;
     background: rgba(0,0,0,.5);
     border: 3px solid rgba(0,0,0,.5);
     box-sizing: border-box;
@@ -33,12 +42,13 @@ body {
 .tittle {
     color: #fff;
     font-size: 40px;
-    font-family: 'Guestrial', sans-serif;
+    font-family: 'Questrial', sans-serif;
     font-weight: bold;
     text-align: left;
     margin-left: 30px;
     margin-top: 20px;
     margin-bottom: 5px;
+
 }
 
 .subject {
@@ -98,7 +108,6 @@ a {
     transition: background-color 0.3s;
 }
 
-
 .sign:hover {
     background-color: #2200BF;
 }
@@ -106,6 +115,7 @@ a {
 .sign:active {
     background-color: #2200BF;
 }
+
 .createacc {
     font-family: 'Questrial', sans-serif;
     font-weight: bold;
@@ -115,14 +125,16 @@ a {
     font-size: 20px;
     color: white;
     border: none;
-    background-color: orange;
+    background-color: #5C41D9;
     margin-left: 226px;
     margin-top: -10px;
     transition: background-color 0.3s;
 }
+
 .createacc:hover {
-    background-color: rgb(221, 144, 0);
+    background-color: #2200BF;
 }
+
 .createacc:active {
-    background-color: rgb(194, 126, 1);
+    background-color: #2200BF;
 }
