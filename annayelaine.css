@@ -98,18 +98,17 @@ p {
     top: 300px;
 }
 
-/* gpt */
 body {
     margin: 0;
 }
 
 .contenedorfunctions {
-    margin-top: 110px; /* Ajusta el valor según sea necesario */
-    margin-left: 415px; /* Ajusta el valor según sea necesario */
+    margin-top: 110px; /*Este código ajusta el valor según sea necesario */
+    margin-left: 415px; /*Este código ajusta el valor según sea necesario */
 }
 
 .img-contenedorfunctions {
-    max-width: 45%; /* Asegúrate de que la imagen no se desborde del contenedor */
+    max-width: 45%; /*Ancho máximo, no se puede pasar del tamaño del contenedor*/
     height: auto;
 }
 
@@ -120,7 +119,7 @@ body {
     background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
     background-position: center; /* Ajusta la posición de la imagen en el centro */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
-    font-family: 'Arial', sans-serif; /* Puedes cambiar la fuente según tus preferencias */
-    color: #ffffff; /* Cambia el color del texto según tus preferencias */
+    font-family: 'Questrial', sans-serif;
+    color: #ffffff;
 }
-/*Aquí los códigos de Anna y Elaine, para la página Objectives*/
+/*Aquí terminan los códigos de Anna y Elaine, para la página Objectives*/
