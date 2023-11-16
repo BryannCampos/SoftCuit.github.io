@@ -22,7 +22,7 @@ body {
 
 .box2 {
     width: 30%;
-    height: 57%;
+    height: 58.5%;
     background-color: rgba(0,0,0,.5);
     border: 3px solid rgba(0,0,0,.5);
     box-sizing: border-box;
@@ -31,7 +31,7 @@ body {
 }
 .box {
     width: 30%;
-    height: 54.5%;
+    height: 57%;
     background-color: rgb(255, 255, 255);
     border: 3px solid rgb(196, 196, 196);
     box-sizing: border-box;
