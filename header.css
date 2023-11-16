@@ -25,6 +25,8 @@ nav a:hover{
 nav ul {
     list-style: none;
     padding: 20;
+    position: relative;
+    right: 38px
 }
 
 nav ul li {
@@ -38,4 +40,29 @@ nav ul li a {
     font-size: 19px;
     font-family: 'Questrial', sans-serif;
 }
+
+.logout {
+    position: relative;
+    bottom: 80px;
+    left: 1230px;
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    font-size: 17px;
+    font-family: 'Questrial', sans-serif;
+    border-radius: 7px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    background-color: #5C41D9;
+    transition: background-color 0.3s;
+  }
+
+  .logout:hover, .registro:hover, .inicio:hover {
+    background-color: #2200BF;
+  }
+
+  .logout:active, .logout:active, .registro:active{
+    background-color: #2200BF;
+  }
 /*Aquí terminan los códigos generales, para la página Header*/
