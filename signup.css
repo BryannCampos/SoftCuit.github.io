@@ -29,9 +29,10 @@ body {
     border-radius: 7px;
     display: flex;
 }
+
 .box {
     width: 30%;
-    height: 57%;
+    height: 58.5%;
     background-color: rgb(255, 255, 255);
     border: 3px solid rgb(196, 196, 196);
     box-sizing: border-box;
