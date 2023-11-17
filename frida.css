@@ -3,7 +3,7 @@
 *{font-family: 'Questrial', sans-serif;}*
 /*Enlace para tipografía de la página Objectives*/
 
-/*Aquí comienzan los códigos del CSS General*/
+/*Inicio de css general*/
 body {
   background-image: url(fridafondo.jpeg); 
   background-size: cover; 
@@ -12,34 +12,13 @@ body {
   background-position: center center;
 }
 
-.about-content {
-  display: flex;
-  align-items: center;
-  text-align: justify;
-}
-
-.about-text {
-  flex: 1;
-  text-align: justify;
-}
-
-.about-image {
-  flex: 1;
-  padding: 20px;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 p {
   font-size: 18px;
   line-height: 1.5;
 }
-/*Aquí acaban los códigos del CSS General*/
+/*fin de css general*/
 
-/*Aquí comienzan los códigos de Frida, para la página Objectives*/
+/*Style para las cards: color, background, opacity*/
 .custom-card1 {
   background-color: hsla(260, 76%, 75%, 0.959);
   border: 0cap solid hsla(260, 76%, 75%, 0.959);
@@ -72,7 +51,7 @@ p {
 }
 
 .custom-card2 h2 {
-  color: #fff;
+  color: #ffffff;
 }
 
 .custom-card3 h2 {
@@ -80,7 +59,7 @@ p {
 }
 
 .custom-card body {
-    font-family: 'Questrial', sans-serif;
+  font-family: 'Questrial', sans-serif;
   font-size: 24px;
 }
 
@@ -96,22 +75,21 @@ p {
   font-size: 24px;
 }
 
-
 p {
   font-size: 18px;
-line-height: 1.5;
-color: #fff;
+ line-height: 1.5;
+ color: #000000;
 }
 
-.h1 {
-    text-align: left;
-    margin: 0 auto;
-    width: 50%;
-  }
+.Objectives {
+  margin-left: 80px;
+  width: 50%;
+}
   
-  h3 {
-    text-align: center;
-    margin: 0 auto;
-    width: 50%;
-  }
-/*Aquí acaban los códigos de Frida, para la página Objectives*/
+  
+h3 {
+ text-align: center;
+ margin: 0 auto;
+ width: 50%;
+}
+/*Style para las cards: color, background, opacity*/
