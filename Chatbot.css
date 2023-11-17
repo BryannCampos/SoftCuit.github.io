@@ -36,7 +36,7 @@ div.about-video {
     width: 100px;
 }
   
-  .close-btn {
+.close-btn {
     background-color: #5C41D9; /* Color de fondo del botón */
     color: #ffffff; /* Color del texto del botón */
     font-size: 50px;
@@ -48,7 +48,7 @@ div.about-video {
     position: relative;
 }
   
-  .close-btn:hover {
+.close-btn:hover {
     background-color: #2200BF; /* Color de fondo del botón al pasar el mouse */
 }
 /*Aquí acaban los códigos para la página Chat Bot*/
