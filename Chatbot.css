@@ -1,7 +1,9 @@
-/*CSS General*/
+/*Enlace para tipografía de la página Home*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
+/*Enlace para tipografía de la páina Home*/
 
+/*Aquí comienzan los códigos del CSS General*/
 body {
     margin: 0;
     background-image: url(Chatbot.png);
@@ -10,36 +12,15 @@ body {
     background-attachment: fixed;
     background-position: center center;
 }
+/*Aquí acaban los códigos del CSS General*/
 
-.about-image {
-    flex: 1;
-    padding: 20px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-p {
-    font-size: 18px;
-    line-height: 1.5
-}
-
-/*CSS General fin*/
-
+/*Aquí comienzan los códigos para la página Chat Bot*/
 .videochatbot {
     width: 300px; 
 }
    
 .about-video {
     align-content: right;
-}
-   
-.about-text {
-    flex: 1;
-    text-align: left;
-    text-align: justify;
 }
    
 div.about-video {
@@ -53,7 +34,7 @@ div.about-video {
     align-items: center;
     height: 100px;
     width: 100px;
-  }
+}
   
   .close-btn {
     background-color: #5C41D9; /* Color de fondo del botón */
@@ -65,8 +46,9 @@ div.about-video {
     border-radius: 5px;
     left: 10px;
     position: relative;
-  }
+}
   
   .close-btn:hover {
     background-color: #2200BF; /* Color de fondo del botón al pasar el mouse */
-  }
+}
+/*Aquí acaban los códigos para la página Chat Bot*/
