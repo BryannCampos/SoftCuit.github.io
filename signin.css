@@ -3,6 +3,7 @@
 *{font-family: 'Questrial', sans-serif;}*
 /*Enlace para tipografía del Sign in*/
 
+/*Aquí comienza el css del Sign in*/
 body {
     background: linear-gradient(150deg, #6C3483, #58d68d);
 }
@@ -108,6 +109,7 @@ a {
     transition: background-color 0.3s;
 }
 
+
 .sign:hover {
     background-color: #2200BF;
 }
@@ -115,7 +117,6 @@ a {
 .sign:active {
     background-color: #2200BF;
 }
-
 .createacc {
     font-family: 'Questrial', sans-serif;
     font-weight: bold;
@@ -130,11 +131,10 @@ a {
     margin-top: -10px;
     transition: background-color 0.3s;
 }
-
 .createacc:hover {
     background-color: #2200BF;
 }
-
 .createacc:active {
     background-color: #2200BF;
 }
+/*Aquí acaba el css del Sign in*/

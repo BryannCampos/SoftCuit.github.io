@@ -3,6 +3,7 @@
 *{font-family: 'Questrial', sans-serif;}*
 /*Enlace para tipografía de la página Sign Up*/
 
+/*Aquí comienza el css del Sign Up*/
 body {
     background: linear-gradient(150deg, #6C3483, #58d68d);
 }
@@ -29,10 +30,9 @@ body {
     border-radius: 7px;
     display: flex;
 }
-
 .box {
     width: 30%;
-    height: 58.5%;
+    height: 57%;
     background-color: rgb(255, 255, 255);
     border: 3px solid rgb(196, 196, 196);
     box-sizing: border-box;
@@ -138,3 +138,4 @@ a {
 .createacc:active {
     background-color: #2200BF;
 }
+/*Aquí acaba el css del Sign Up*/
