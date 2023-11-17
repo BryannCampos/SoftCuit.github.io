@@ -4,33 +4,9 @@
 /*Enlace para tipografía de la página Functions*/
 
 /*Aquí comienzan los códigos del CSS General*/
-h1 {
-    font-size: 36px;
-}
-
-.about-content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.about-text {
-    flex: 1;
-}
-
-.about-image {
-    flex: 1;
-    padding: 20px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
 p {
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 /*Aquí acaban los códigos del CSS General*/
 
@@ -79,6 +55,7 @@ p {
     position: relative;
     left: 125px;
 }
+
 .btn-button4{
     font-size: 34px;
     background-color: #5C41D9;
@@ -100,13 +77,9 @@ p {
     top: 300px;
 }
 
-body {
-    margin: 0;
-}
-
 .contenedorfunctions {
-    margin-top: 110px; /*Este código ajusta el valor según sea necesario */
-    margin-left: 415px; /*Este código ajusta el valor según sea necesario */
+    margin-top: 110px; /*En este código ajusta el valor según sea necesario */
+    margin-left: 415px; /*En este código ajusta el valor según sea necesario */
 }
 
 .img-contenedorfunctions {
