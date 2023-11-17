@@ -9,11 +9,11 @@ body {
 
 
 body {
-    background-image: url(Search.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
+   background-image: url(Search.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center center;
 }
 
 
@@ -43,11 +43,11 @@ p {
 .videobackupcopy {
     width: 300px;
     
-   }
+}
    
    .about-video {
-       align-content: right;
-   }
+    align-content: right;
+}
    
    .about-text {
        flex: 1;
