@@ -1,74 +1,38 @@
-/*CSS General*/
+/*Enlace para tipografía de la página Home*/
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 *{font-family: 'Questrial', sans-serif;}*
+/*Enlace para tipografía de la páina Home*/
+
+/*Aquí comienzan los códigos del CSS General*/
 body {
     margin: 0;
-    padding: 0;
-    font-family: 'Questrial', sans-serif;
+    background-image: url(Search.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 }
+/*Aquí acaban los códigos del CSS General*/
 
-
-body {
-   background-image: url(Search.png);
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-position: center center;
-}
-
-
-.about-content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.about-image {
-    flex: 1;
-    padding: 20px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-p {
-    font-size: 18px;
-    line-height: 1.5
-}
-
-/*CSS General fin*/
-
+/*Aquí comienzan los códigos para la página Search*/
 .videobackupcopy {
     width: 300px;
-    
+}
+
+div.about-video {
+    margin-left: 150px;
+    margin-top: 0px;
 }
    
-   .about-video {
-    align-content: right;
-}
-   
-   .about-text {
-       flex: 1;
-       text-align: left;
-       text-align: justify;
-   }
-   
-   div.about-video {
-       margin-left: 150px;
-       margin-top: 0px;
-   }
-   
-   .container {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100px;
     width: 100px;
-  }
+}
   
-  .close-btn {
+.close-btn {
     background-color: #FFBF40; /* Color de fondo del botón */
     color: #ffffff; /* Color del texto del botón */
     font-size: 50px;
@@ -78,8 +42,9 @@ p {
     border-radius: 5px;
     left: 10px;
     position: relative;
-  }
+}
   
-  .close-btn:hover {
+.close-btn:hover {
     background-color: #E8A319; /* Color de fondo del botón al pasar el mouse */
-  }
+}
+/*Aquí acaban los códigos para la página Search*/
