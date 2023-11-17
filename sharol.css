@@ -3,7 +3,7 @@
 *{font-family: 'Questrial', sans-serif;}*
 /*Enlace para tipografía de la página Information*/
 
-/*Aquí comienzan los códigos del CSS General*/
+/*Aquí comienzan los códigos de Sharol, para la página Information*/
 body {
     background-image: url(fondo\ de\ information.png); 
     background-size: cover; 
@@ -12,27 +12,6 @@ body {
     background-position: center center;
 }
 
-h1 {
-    font-size: 36px;
-}
-
-.about-content {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.about-text {
-    flex: 1;
-}
-
-.about-image {
-    flex: 1;
-    padding: 20px;
-}
-/*Aquí acaban los códigos del CSS General*/
-
-/*Aquí comienzan los códigos de Sharol, para la página Information*/
 img {
     max-width: 100%;
     height: auto;
@@ -40,9 +19,6 @@ img {
 
 p.texto {
     font-size: 35px;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 /*Aquí acaban los códigos de Sharol, para la página Information*/
-
-
-

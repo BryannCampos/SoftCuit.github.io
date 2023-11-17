@@ -62,4 +62,9 @@ color:aqua;
 .pie-pagina .grupo-2 small{
     font-size: 15px;
 }
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
 /*Aquí acaba el css del footer */
