@@ -5,11 +5,12 @@
 
 /*Aquí comienzan los códigos del CSS General*/
 body {
+
     background-image: url(Synchronizeapplications.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 }
 /*Aquí acaban los códigos del CSS General*/
 
@@ -20,12 +21,12 @@ body {
 }
    
 .about-video {
-       align-content: right;
+    align-content: right;
 }
 
 div.about-video {
-       margin-left: 150px;
-       margin-top: 0px;
+    margin-left: 150px;
+    margin-top: 0px;
 }
 
 .container {
