@@ -30,16 +30,6 @@ body {
     border-radius: 7px;
     display: flex;
 }
-.box {
-    width: 30%;
-    height: 57%;
-    background-color: rgb(255, 255, 255);
-    border: 3px solid rgb(196, 196, 196);
-    box-sizing: border-box;
-    border-radius: 7px;
-    display: flex;
-}
-
 
 .tittle {
     color: #fff;
@@ -50,7 +40,6 @@ body {
     margin-left: 30px;
     margin-top: 20px;
     margin-bottom: 5px;
-
 }
 
 .subject {
@@ -94,7 +83,7 @@ a {
     color: #5C41D9;
 }
 
-.sign {
+.Signup {
     font-family: 'Questrial', sans-serif;
     font-weight: bold;
     border-radius: 7px;
@@ -110,32 +99,11 @@ a {
     transition: background-color 0.3s;
 }
 
-
-.sign:hover {
+.Signup:hover {
     background-color: #2200BF;
 }
 
-.sign:active {
-    background-color: #2200BF;
-}
-.createacc {
-    font-family: 'Questrial', sans-serif;
-    font-weight: bold;
-    border-radius: 7px;
-    width: 50%;
-    height: 15%;
-    font-size: 20px;
-    color: white;
-    border: none;
-    background-color: #5C41D9;
-    margin-left: 226px;
-    margin-top: -10px;
-    transition: background-color 0.3s;
-}
-.createacc:hover {
-    background-color: #2200BF;
-}
-.createacc:active {
+.Signup:active {
     background-color: #2200BF;
 }
 /*Aquí acaba el css del Sign Up*/
