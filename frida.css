@@ -12,10 +12,6 @@ body {
   background-position: center center;
 }
 
-p {
-  font-size: 18px;
-  line-height: 1.6;
-}
 /*fin de css general*/
 
 /*Style para las cards: color, background, opacity*/
@@ -58,11 +54,6 @@ p {
   color: #fff;
 }
 
-.custom-card body {
-  font-family: 'Questrial', sans-serif;
-  font-size: 24px;
-}
-
 .custom-card1 p {
   font-size: 24px;
 }
@@ -75,21 +66,22 @@ p {
   font-size: 24px;
 }
 
-p {
-  font-size: 18px;
- line-height: 1.5;
- color: #000000;
-}
-
 .Objectives {
   margin-left: 80px;
   width: 50%;
 }
-  
-  
-h3 {
- text-align: center;
- margin: 0 auto;
- width: 50%;
+
+.tittlecards {
+  position: relative;
+  top: 16px;
+}
+
+.textcards {
+  font-size: 24px;
+  font-size: 24px;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 /*Style para las cards: color, background, opacity*/
