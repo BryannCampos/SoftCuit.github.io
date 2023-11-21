@@ -62,7 +62,7 @@ input {
 }
 
 input::placeholder {
-    color: rgb(148, 148, 148);
+    color: #fff;
     font-family: 'Questrial', sans-serif;
     font-size: 15px;
 }
